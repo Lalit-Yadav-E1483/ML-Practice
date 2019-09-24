@@ -1,4 +1,8 @@
 # Data Files
 **/data
 **/**/data
-
+*.csv
+**/models
+**/**/models
+**/tmp
+**/**/tmp
